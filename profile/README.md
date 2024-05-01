@@ -1,6 +1,6 @@
 # AWS Skills
 
-## <img src="/images/korea_flag.png" alt="[KR]" height="48" /> World Skills Korea - Cloud Computing ([info](https://meister.hrdkorea.or.kr/sub/3/2/1/20160512110924569100_view.do))
+## <img src="/images/korea_flag.png" alt="[KR]" height="18" /> World Skills Korea - Cloud Computing ([info](https://meister.hrdkorea.or.kr/sub/3/2/1/20160512110924569100_view.do))
 
 ### 2021
 | # | Mission | Services |
